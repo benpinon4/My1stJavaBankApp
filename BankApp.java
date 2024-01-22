@@ -130,7 +130,7 @@ class BankAccount {
             
             
         } while (option != 'E');
-                System.out.println("Thank you for banking with us. Have a really fucking nice day.");
+                System.out.println("Thank you for banking with us. Have a really fucking nice day you filthy animal");
         
 
     }
